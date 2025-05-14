@@ -20,12 +20,12 @@ In this year there are 24 teams comprised of 67 students. List of team leaders a
 | XEON       | 3         | 3 - DL Streamer pipeline for Intel HW | Rayid Mohammed Afzal | ER | V | rayidma.es2327@saintgits.org | 8136898648 | Er. Arun Sebastian | 9847541290 |
 | TeamRed    | 2         | 2 - Image Sharpening using knowledge distillation | Jerit Reji | CS | V | jeritr.csb2327@saintgits.org | 8921321151 | Dr. Anju Pratap | 9400427355 |
 | TriNethra  | 3         | 4 - AI-Powered Interactive Learning Assistant for Classrooms | Swetha Anil | EC | V | swethaa.ec2327@saintgits.org | 9301751195 | Dr. Starlet Ben Alex | 9447596187 |
-| Luminous   | 3         | 2 - Image Sharpening using knowledge distillation | Fahim Shafeek | CS | V | fahims.csa2327@saintgits.org | 6238159457 | Mr. Siju K S | 9447609301 |
+| Luminous   | 3         | 2 - Image Sharpening using knowledge distillation | Fahim Shafeek | CS | V | fahims.csa2327@saintgits.org | 6238159457 | Mr. Siju K S | 8921293399 |
 | PulseTech  | 3         | 5 - Smart product labeling and traceability system | Anna Boban | EV | V | annab.ev2327@saintgits.org | 7594869382 | Dr. Pradeep C | 9605537880 |
-| PixeL      | 3         | 2 - Image Sharpening using knowledge distillation | Arjun A | CS | V | arjuna.csa2327@saintgits.org | 8921473158 | Mr. Siju K S | 9447609301 |
+| PixeL      | 3         | 2 - Image Sharpening using knowledge distillation | Arjun A | CS | V | arjuna.csa2327@saintgits.org | 8921473158 | Mr. Siju K S | 8921293399 |
 | Radeon     | 2         | 1 - Network Security | Nakul J S | IMCA | V | nakuljs.inmca2328@saintgits.org | 8138874644 | Er. Akshara Sasidharan | 9496414382 |
 | RoboTrace  | 2         | 5 - Smart product labeling and traceability system | Shahazad Abdulla | RB | V | shahazad.rbb2327@saintgits.org | 7736652034 | Dr. Starlet Ben Alex | 9447596187 |
-| FALCONS    | 2         | 2 - Image Sharpening using knowledge distillation | Sujith S | CS | V | sujiths.csb2327@saintgits.org | 9495364448 | Mr. Siju K S | 9447609301 |
+| FALCONS    | 2         | 2 - Image Sharpening using knowledge distillation | Sujith S | CS | V | sujiths.csb2327@saintgits.org | 9495364448 | Mr. Siju K S | 8921293399 |
 | Execthron  | 3         | 1 - Network Security | Steny Thankkam Raju | CS | V | stenytr.csb2327@saintgits.org | 9961852803 | Er. Akshara Sasidharan | 9496414382 |
 | Axion      | 2         | 2 - Image Sharpening using knowledge distillation | Arya Vinod | CS | V | aryav.csa2327@saintgits.org | 8136942967 | Er. Anish George | 9496465216 |
 | Mentora    | 3         | 4 - AI-Powered Interactive Learning Assistant for Classrooms | Namitha K | EC | VII | namithak.ec2226@saintgits.org | 8590588467 | Er. Anish George | 9496465216 |
